@@ -15,7 +15,6 @@ How to reach me :
 Tech I use:
 <br/>
 <img height="25" weight="25" align="left"src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
-
 <img height="25" align="left" weight="25"src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
 
 <br/>
