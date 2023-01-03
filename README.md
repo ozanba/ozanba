@@ -1,7 +1,7 @@
 <img src="https://media0.giphy.com/media/26u46YzMF4mEiSzDi/giphy.gif?cid=ecf05e47josu3zgp1kt6i2an0x5a81078mbt247i0799rb4h&rid=giphy.gif&ct=g" align="right" width="250" height="250" >
 
 ### Hi, I’m Ozan
-## I am student who intrested in python.
+## I am a student intrested in python.
 ### I’m currently learning python and date science.
 <hr/>
 How to reach me :
