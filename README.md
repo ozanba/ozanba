@@ -34,7 +34,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanba&layout=compact">
 <br/>
-<img src="https://streak-stats.demolab.com?user=ozanba" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ozanba" alt="GitHub Streak" /></a>
 
 <!---
 ozanba/ozanba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
