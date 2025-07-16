@@ -1,27 +1,41 @@
-<img src="https://media0.giphy.com/media/26u46YzMF4mEiSzDi/giphy.gif?cid=ecf05e47josu3zgp1kt6i2an0x5a81078mbt247i0799rb4h&rid=giphy.gif&ct=g" align="right" width="250" height="250" >
 
-### Hi, I’m Ozan
-## I am a student intrested in python.
-### I’m currently learning python and date science.
-<hr/>
-How to reach me :
+# Hi, I’m Ozan 👋  
+🎓 Computer Engineering student at Başkent University  
+📱 Building SwiftUI apps & exploring UI/UX with Figma  
+📚 Currently working on educational and productivity apps  
+💡 Passionate about turning ideas into polished mobile experiences  
 
+---
 
-<a href="mailto:ozanbagirann@gmail.com?
-    subject=github_link">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left"/></a>
-    <a href="https://www.linkedin.com/in/ozan-ba%C4%9F%C4%B1ran-084371150/"><img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg"/></a>
-<hr/>
-Tech I use:
+### 🛠 Tech I Use
+
+<p align="left">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL"/>
+</p>
+
+---
+
+### 📬 How to reach me
+
+<a href="mailto:ozanbagirann@gmail.com?subject=Hello Ozan&body=Hi! I found you on GitHub."><img height="32" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/ozan-ba%C4%9F%C4%B1ran-084371150/"><img height="32" src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" /></a>
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanba&layout=compact">
 <br/>
-<img height="25" weight="25" align="left"src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png">
-<img height="25" align="left" weight="25"src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
-
-<br/>
-<br/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanba&layout=compact">
+<img src="https://streak-stats.demolab.com?user=ozanba" alt="GitHub Streak" />
 
 <!---
 ozanba/ozanba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
